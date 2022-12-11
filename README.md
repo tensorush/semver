@@ -12,5 +12,5 @@
 [ci-url]: https://github.com/tensorush/semver/blob/master/.github/workflows/ci.yml
 [license-shield]: https://img.shields.io/github/license/tensorush/semver.svg?style=for-the-badge&labelColor=black
 [license-url]: https://github.com/tensorush/semver/blob/master/LICENSE.md
-[resources-shield]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=resources&labelColor=black
+[resources-shield]: https://img.shields.io/badge/click-7C5642?style=for-the-badge&logo=rust&logoColor=7C5642&label=resources&labelColor=black
 [resources-url]: https://github.com/tensorush/Awesome-Languages-Learning#crab-rust
