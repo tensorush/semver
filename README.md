@@ -8,7 +8,7 @@
 
 <!-- MARKDOWN LINKS -->
 
-[ci-shield]: https://img.shields.io/github/workflow/status/tensorush/semver/CI?style=for-the-badge&logo=github&label=CI&labelColor=black
+[ci-shield]: https://img.shields.io/github/actions/workflow/status/tensorush/semver/ci.yml?branch=master&style=for-the-badge&logo=github&label=CI&labelColor=black
 [ci-url]: https://github.com/tensorush/semver/blob/master/.github/workflows/ci.yml
 [license-shield]: https://img.shields.io/github/license/tensorush/semver.svg?style=for-the-badge&labelColor=black
 [license-url]: https://github.com/tensorush/semver/blob/master/LICENSE.md
